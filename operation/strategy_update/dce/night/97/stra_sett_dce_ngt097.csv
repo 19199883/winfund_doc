@@ -1,0 +1,16 @@
+comm_no,strategy,contract,lot
+i,hv8_dli_night,i1905,1
+j,hv3_dlj_night,j1905,4
+j,hv5_dlj_night,j1905,6
+jm,hv3_dljm_night,jm1905,1
+m,chg1_dlm_night,m1905,40
+m,chg2_dlm_night,m1905,1
+m,hv7_dlm_night,m1905,1
+m,hv9_dlm_night,m1905,1
+m,mpv1_dlm_night,m1905,5
+m,tst0_dlm_night,m1905,1
+m,tst1_dlm_night,m1905,10
+m,tst2_dlm_night,m1905,5
+m,tst5_dlm_night,m1905,1
+m,tst6_dlm_night,m1905,1
+m,tst7_dlm_night,m1905,1
