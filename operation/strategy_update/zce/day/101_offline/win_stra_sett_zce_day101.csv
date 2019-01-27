@@ -1,6 +1,7 @@
 comm_no,strategy,contract,lot
-zzma,st301a_zzma_day,MA905,0
-zzsm,st301a_zzsm_day,SM901,0
-zzma,st303a_zzma_day,MA905,0
-zzsm,st303a_zzsm_day,SM901,0
-zzma,st309a_zzma_day,MA905,0
+zzma,st301a_zzma_day,MA905,3
+zzta,st302a_zzta_day,TA905,5
+zzma,st303a_zzma_day,MA905,3
+zzap,st309a_zzap_day,AP905,1
+zzma,st309a_zzma_day,MA905,3
+zzrm,st309a_zzrm_day,RM905,1
