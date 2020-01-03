@@ -1,0 +1,14 @@
+comm,strategy,contract,lot
+cf,tst0_zzcf_night,CF005,1
+sr,hv9_zzsr_night,SR005,1
+sr,tst8_zzsr_night,SR005,2
+sr,xpv0_zzsr_night,SR005,7
+ta,hv7_zzta_night,TA005,3
+ta,hv9_zzta_night,TA005,3
+zc,hv7_zzzc_night,ZC005,2
+zc,hv8_zzzc_night,ZC005,2
+zc,hv9_zzzc_night,ZC005,1
+zc,tst0_zzzc_night,ZC005,16
+zc,tst7_zzzc_night,ZC005,4
+zc,tst8_zzzc_night,ZC005,2
+zc,xpv2_zzzc_night,ZC005,12
